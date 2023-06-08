@@ -1,3 +1,5 @@
 ingreso datos
 proceso
 salida datos
+cambio 1
+cambio 2

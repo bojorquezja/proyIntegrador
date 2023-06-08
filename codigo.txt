@@ -1,0 +1,3 @@
+ingreso datos
+proceso
+salida datos
